@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QCARConfig>
+    <Tracking>
+        <ModelTarget name="Bowl" trackingMode="scan" motionHint="adaptive" upVector="0.0 1.0 0.0" optimizeTrackingFor="default"></ModelTarget>
+    </Tracking>
+    <Assembly name="Bowl" assemblyId="fb9af445466142079f5c7a92c02f5b56">
+        <Part name="Bowl" translation="0 0 0" rotation="AD: 0 0 1 0"></Part>
+        <EntryPoint name="(none)" trained="yes"></EntryPoint>
+    </Assembly>
+</QCARConfig>

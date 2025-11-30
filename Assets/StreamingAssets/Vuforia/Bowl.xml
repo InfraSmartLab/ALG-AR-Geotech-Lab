@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Bowl" motionHint="adaptive" trackingMode="scan" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="Bowls_assembly" assemblyId="27ed22c5e9d849529d8ba497e46c3dd0">
+<Part name="Bowl" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0 -2.98023e-08 0.895697" rotation="AD: -0.674415 -0.833833 2.10612 167.109" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="0 -2.98023e-08 0.895697" rotation="AD: -0.674415 -0.833833 2.10612 167.109" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="0 -2.98023e-08 0.895697" rotation="AD: 0.999978 0.0411232 -0.168959 206.969" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="-5.96046e-08 -3.37604e-09 0.895697" rotation="AD: 0.995422 -0.142177 0.923577 192.808" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Test" motionHint="adaptive" trackingMode="scan" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="Tests_assembly" assemblyId="0bb26c7dd5a64c9997df4ce876207448">
+<Part name="Test" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.0115086 0.0289685 0.761759" rotation="AD: 0.79935 1.46475 -0.774267 154.128" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.0150155 0.0279376 0.755052" rotation="AD: -0.685286 1.29583 -1.06731 214.581" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-0.00763613 0.0275791 0.769545" rotation="AD: 0.99601 -0.363815 0.371987 95.631" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="0.0152182 0.0192495 0.775957" rotation="AD: 0.992449 0.546968 -0.286981 131.979" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0004" translation="0.00230153 0.0315742 0.757936" rotation="AD: 0.36109 2.02687 -1.07141 170.597" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

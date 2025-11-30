@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Medicine" motionHint="adaptive" trackingMode="scan" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="Medicines_assembly" assemblyId="0edc19d324bf4614bb279eca0f97d548">
+<Part name="Medicine" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0115639 0.00035017 0.530559" rotation="AD: 0.996398 0.199785 -0.510269 217.871" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="0.0200353 -0.022365 0.53689" rotation="AD: 0.977583 -0.290366 1.10728 199.329" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-0.0203094 -0.010262 0.5154" rotation="AD: 0.988428 0.234015 -0.892394 201.704" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="-0.00961893 -0.0250866 0.521547" rotation="AD: 0.0132388 -1.28316 1.59564 180.596" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0004" translation="0.0233857 -0.0177047 0.46955" rotation="AD: 0.999752 -0.0471898 0.537833 188.829" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

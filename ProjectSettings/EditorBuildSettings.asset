@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1.Main Page.unity
+    guid: 62dee9b0f1e24e546b5d4efd37fb9818
+  - enabled: 1
+    path: Assets/Scenes/2.Scan.unity
+    guid: 81c8e59661a438542a805d0eab117fcb
+  - enabled: 1
+    path: Assets/Scenes/3.Start Menu.unity
+    guid: 45ed0514f6c6f3e49943e8f55ca457da
+  - enabled: 1
+    path: Assets/Scenes/4.List of Equipments.unity
+    guid: 2976bb89bf30edf4d95899f9f697ad13
+  - enabled: 1
+    path: Assets/Scenes/5.Find Similar Bowl.unity
+    guid: 182b8a911f9eca847971f22ade795cce
+  - enabled: 1
+    path: Assets/Scenes/6.Find Beaker.unity
+    guid: 2f77d1ae4d038a74bbe3b3f04b0880c9
+  - enabled: 1
+    path: Assets/Scenes/7.Find Sample and Weight Machine.unity
+    guid: c2c8a7db28ad2a84a951b525abab84c2
+  - enabled: 1
+    path: Assets/Scenes/8.0 Steps.unity
+    guid: 61caca33d72f11e478ea6be37ad2f64f
+  - enabled: 1
+    path: Assets/Scenes/9. Sample calculation.unity
+    guid: eb0c6c9b0f6f874449d34c29a3475cbb
+  - enabled: 1
+    path: Assets/Scenes/10.Interactive features.unity
+    guid: f31685c3fa7c8a14e8b24d9735428739
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
