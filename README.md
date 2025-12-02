@@ -13,3 +13,6 @@ The application was developed with support from the Affordable Learning Georgia 
 From a technical perspective, the project is built using the latest release of Unity 6.0 together with the Vuforia Engine for image-target tracking. Each geotechnical test is implemented as a dedicated Unity scene that includes an AR camera, target image, 3D models of the apparatus, and scripted instruction panels. When the app recognizes the corresponding target in the lab, the digital content appears in place and guides the student through the sequence of actions required for the test. For the initial release, this application provides information and instructions to perform only the moisture content test. With further development, more tests and features will be added.
 
 This repository is intended as both a reusable teaching tool and a reference implementation. Instructors can adapt the scenes to match their own laboratory equipment or add new tests, while students can explore the project to better understand how AR workflows are created for engineering education.
+
+
+![QR code for ALG-AR-Geotech-Lab](Images/1.QR%20COde.png)
