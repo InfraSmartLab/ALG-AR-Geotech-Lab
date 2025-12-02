@@ -14,5 +14,18 @@ From a technical perspective, the project is built using the latest release of U
 
 This repository is intended as both a reusable teaching tool and a reference implementation. Instructors can adapt the scenes to match their own laboratory equipment or add new tests, while students can explore the project to better understand how AR workflows are created for engineering education.
 
+**QR Code used in he applicaion:**
+
 
 ![QR code for ALG-AR-Geotech-Lab](Images/1.QR%20COde.png)
+
+**Application interface:**
+
+
+![Instruction screens – part 1](Images/2.1 Instruction.png)
+
+![Instruction screens – part 2](Images/2.2 Instructions.png)
+
+**AR Visualization :**
+
+![AR visualization of the moisture content test](Images/3.AR visualization.png)
