@@ -29,3 +29,14 @@ This repository is intended as both a reusable teaching tool and a reference imp
 **AR Visualization :**
 
 ![AR visualization of the moisture content test](Images/3.AR visualization.png)
+
+Application interface:
+
+![Instruction screens – part 1](Images/2.1%20Instruction.png)
+
+![Instruction screens – part 2](Images/2.2%20Instructions.png)
+
+AR Visualization:
+
+![AR visualization of the moisture content test](Images/3.AR%20visualization.png)
+
