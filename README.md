@@ -2,7 +2,7 @@
 
 This augmented reality application was developed for the Affordable Learning Georgia (ALG) project to assist undergraduate students in performing geotechnical engineering laboratory tests.
 
-Open this folder as a Unity project, add your own Vuforia license key, and build to Android.
+Open this folder as a Unity project, add your own Vuforia license key, and build for Android.
 
 Description:
 ALG-AR-Geotech-Lab is an augmented reality (AR) application designed to support undergraduate civil engineering students as they learn standard geotechnical laboratory tests. Instead of relying only on written manuals or short demonstrations, students can hold a mobile device over printed markers in the lab and see 3D equipment, step-by-step instructions, and safety reminders overlaid directly on their physical workspace. The goal is to make each test more intuitive, repeatable, and accessible for students who may be performing the procedure on their own or outside scheduled demonstration times.
@@ -14,7 +14,7 @@ From a technical perspective, the project is built using the latest release of U
 
 This repository is intended as both a reusable teaching tool and a reference implementation. Instructors can adapt the scenes to match their own laboratory equipment or add new tests, while students can explore the project to better understand how AR workflows are created for engineering education.
 
-**QR Code used in he applicaion:**
+**QR Code used in the application:**
 
 
 ![QR code for ALG-AR-Geotech-Lab](Images/1.QR%20COde.png)
