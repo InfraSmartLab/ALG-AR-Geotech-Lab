@@ -32,3 +32,19 @@ This repository is intended as both a reusable teaching tool and a reference imp
 
 ![AR visualization of the moisture content test](Images/3.AR%20visualization.png)
 
+
+## License
+
+This project is licensed under the **Creative Commons Attribution–NonCommercial 4.0
+International License (CC BY-NC 4.0)**.
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- **Attribution (BY):** Credit must be given to the original author.
+- **NonCommercial (NC):** The material may not be used for commercial purposes.
+
+Full license text:
+https://creativecommons.org/licenses/by-nc/4.0/
